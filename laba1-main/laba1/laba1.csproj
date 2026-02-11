@@ -7,14 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="\\iscsi\profstud\borodachevvs\Desktop\OOP_Fundamentals_Library\OOP_Fundamentals_Library.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="OOP_Fundamentals_Library">
-      <HintPath>\\iscsi\profstud\borodachevvs\Desktop\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.dll</HintPath>
-    </Reference>
-  </ItemGroup>
+ <ItemGroup>
+	<ProjectReference Include="..\OOP_Fundamentals_Library\OOP_Fundamentals_Library.csproj" />
+</ItemGroup>
 
 </Project>
+
