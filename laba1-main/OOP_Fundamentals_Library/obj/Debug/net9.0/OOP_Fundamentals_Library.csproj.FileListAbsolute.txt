@@ -1,0 +1,11 @@
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.deps.json
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.dll
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\bin\Debug\net9.0\OOP_Fundamentals_Library.pdb
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.AssemblyInfoInputs.cache
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.AssemblyInfo.cs
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.dll
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\refint\OOP_Fundamentals_Library.dll
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\OOP_Fundamentals_Library.pdb
+\\iscsi\profstud\BorodachevVS\Desktop\OOP_Fundamentals_Library\obj\Debug\net9.0\ref\OOP_Fundamentals_Library.dll

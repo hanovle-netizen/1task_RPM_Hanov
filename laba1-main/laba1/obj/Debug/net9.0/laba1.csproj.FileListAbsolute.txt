@@ -1,0 +1,5 @@
+G:\rpm\laba1\obj\Debug\net9.0\laba1.csproj.AssemblyReference.cache
+G:\rpm\laba1\obj\Debug\net9.0\laba1.GeneratedMSBuildEditorConfig.editorconfig
+G:\rpm\laba1\obj\Debug\net9.0\laba1.AssemblyInfoInputs.cache
+G:\rpm\laba1\obj\Debug\net9.0\laba1.AssemblyInfo.cs
+G:\rpm\laba1\obj\Debug\net9.0\laba1.csproj.CoreCompileInputs.cache
